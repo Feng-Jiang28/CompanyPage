@@ -1,25 +1,25 @@
 {
     "Header": {
-
         "title": "Little Lucky Kitty",
         "paragraph": "Our slogan."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "LittleLuckyKitty is an exclusive online marketplace tailored for university students. Our mission is to provide a reliable, secure, and user-friendly platform where students can effortlessly buy, sell, or exchange pre-owned items. Recognizing the challenges students face on other platforms, we've designed LittleLuckyKitty to be a one-stop solution, addressing their unique needs and ensuring a seamless trading experience.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Dedicated to university students",
+            "Safe and verified transactions",
+            "Tailored recommendations",
+            "Eco-friendly and sustainable"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "User-friendly interface",
+            "Exclusive university-based authentication",
+            "Responsive customer support",
+            "Continuous platform improvements"
         ]
     },
+
     "Services": [{
             "icon": "fa fa-wordpress",
             "name": "Lorem ipsum dolor",
@@ -114,23 +114,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Secure University Login",
+            "text": "Ensure a student-exclusive environment with our university-based authentication. Only verified students can access the platform, ensuring a safe and tailored marketplace experience."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Tailored Suggestions",
+            "text": "Our advanced algorithms analyze your preferences and browsing history to recommend items that align with your needs, making your shopping experience seamless and efficient."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Trustworthy Feedback",
+            "text": "Buy with confidence! Our user rating system and detailed reviews provide insights into sellers and products, ensuring you make informed decisions."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Curated Item Lists",
+            "text": "Dive into a selection of items specifically curated for university students. From textbooks to dorm essentials, find everything you need in one place."
         }
     ]
 }
