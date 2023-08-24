@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Providing a dedicated platform for university students, we prioritize safety, personalization, and trustworthiness in every feature we offer.
           </p>
         </div>
         <div className='row'>

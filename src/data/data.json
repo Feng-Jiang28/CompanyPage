@@ -19,40 +19,41 @@
             "Continuous platform improvements"
         ]
     },
-
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        "icon": "fa fa-wordpress",
+        "name": "University Authentication",
+        "text": "Exclusive access with university-based authentication. Only verified students can join, ensuring a marketplace tailored to student needs."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Personalized Recommendations",
+            "text": "Advanced algorithms offer tailored item suggestions. Browse products that align with your preferences, enhancing your shopping experience."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "User Ratings & Reviews",
+            "text": "Rely on our user rating system and in-depth reviews system. Gain insights into sellers and all the items, ensuring informed and confident purchases."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-list-ul",
+            "name": "Curated Listings",
+            "text": "Explore items curated specifically for university students. From study materials to dorm essentials, find everything tailored to your needs."
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Secure Transactions",
+            "text": "Safety first with our secure transaction methods. Every trade on our platform is protected, ensuring a reliable and trustworthy experience."
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-users",
+            "name": "Community Engagement",
+            "text": "Join a vibrant community of university students. Share reviews, insights, and collaborate seamlessly within a dedicated platform."
         }
 
 
     ],
+
+
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
