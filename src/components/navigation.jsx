@@ -1,3 +1,4 @@
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,8 +16,11 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
+
+          <img src="img/cat.svg" alt='Your Brand' style={{ width: '50px', height: '50px', marginRight: '10px' }} />
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Lucky Kitty
+
+            Little Lucky Kitty
           </a>{' '}
         </div>
 
