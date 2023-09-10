@@ -2,7 +2,6 @@
     "Header": {
         "title": "Little Lucky Kitty",
         "paragraph": "Our slogan."
-
     },
     "About": {
         "paragraph": "LittleLuckyKitty is an exclusive online marketplace tailored for university students. Our mission is to provide a reliable, secure, and user-friendly platform where students can effortlessly buy, sell, or exchange pre-owned items. Recognizing the challenges students face on other platforms, we've designed LittleLuckyKitty to be a one-stop solution, addressing their unique needs and ensuring a seamless trading experience.",
@@ -19,10 +18,11 @@
             "Continuous platform improvements"
         ]
     },
-    "Services": [{
-        "icon": "fa fa-wordpress",
-        "name": "University Authentication",
-        "text": "Exclusive access with university-based authentication. Only verified students can join, ensuring a marketplace tailored to student needs."
+    "Services": [
+        {
+            "icon": "fa fa-wordpress",
+            "name": "University Authentication",
+            "text": "Exclusive access with university-based authentication. Only verified students can join, ensuring a marketplace tailored to student needs."
         },
         {
             "icon": "fa fa-cart-arrow-down",
@@ -49,43 +49,26 @@
             "name": "Community Engagement",
             "text": "Join a vibrant community of university students. Share reviews, insights, and collaborate seamlessly within a dedicated platform."
         }
-
-
     ],
-
-
-    "Testimonials": [{
+    "Testimonials": [
+        {
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Exchange one hundred percent effort for one percent success. \"",
+            "name": "Feng Jiang"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Impossible is just untried.\"",
+            "name": "Bingsong Zeng"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Practice makes perfect.\"",
+            "name": "Zeqing Wang"
         }
     ],
-    "Team": [{
+    "Team": [
+        {
             "img": "img/team/01.jpg",
             "name": "John Doe",
             "job": "Director"
@@ -94,7 +77,8 @@
             "img": "img/team/02.jpg",
             "name": "Mike Doe",
             "job": "Senior Designer"
-        }, {
+        },
+        {
             "img": "img/team/03.jpg",
             "name": "Jane Doe",
             "job": "Senior Designer"
@@ -113,7 +97,8 @@
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
-    "Features": [{
+    "Features": [
+        {
             "icon": "fa fa-comments-o",
             "title": "Secure University Login",
             "text": "Ensure a student-exclusive environment with our university-based authentication. Only verified students can access the platform, ensuring a safe and tailored marketplace experience."
